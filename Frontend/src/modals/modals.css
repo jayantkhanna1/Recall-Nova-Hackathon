@@ -1,0 +1,114 @@
+.notify-sub {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 15px;
+  letter-spacing: -0.503px;
+}
+.notify-modal {
+  position: relative;
+  overflow: hidden;
+  border-radius: 17px;
+  background: linear-gradient(180deg, #69c1eb 0%, #8ad0f1 100%);
+  padding: 28px;
+  padding-bottom: 50px;
+}
+.notify-sub .line {
+  height: 1px;
+  width: 50px;
+  background-color: #d9d9d9;
+}
+.notify-modal h1 {
+  color: #fff;
+  margin-top: 12px;
+  font-size: 34.773px;
+  font-weight: 600;
+  line-height: 46.81px; /* 134.615% */
+  letter-spacing: -1.043px;
+}
+.email-input {
+  width: 100%;
+  position: relative;
+  margin-top: 35px;
+}
+.email-input input {
+  width: 100%;
+  padding: 14px;
+  border-radius: 32.764px;
+  border: 1.198px solid #dcdcdc;
+
+  color: #8e8e8e;
+  font-size: 15.575px;
+  font-weight: 500; /* 300.537% */
+  letter-spacing: -0.467px;
+}
+.email-input input::placeholder {
+  color: #8e8e8e;
+  font-size: 15.575px;
+  font-weight: 500; /* 300.537% */
+  letter-spacing: -0.467px;
+}
+.email-input button {
+  position: absolute;
+  right: 5px;
+  border-radius: 30.558px;
+  background: #81ccf0;
+  top: 5px;
+  padding: 9px 33px;
+  border: none;
+  color: #fff;
+  font-size: 16.774px;
+  font-weight: 600;
+
+  letter-spacing: -0.503px;
+}
+.modal-button {
+  width: 100%;
+  margin-top: 1.4rem;
+}
+.modal-button button {
+  border-radius: 10px;
+  background: #89cff0;
+  padding: 10px;
+  width: 100%;
+
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.32px;
+}
+.logo-bg img {
+  position: absolute;
+  transform: rotate(10deg);
+  top: 0;
+  left: -10%;
+}
+@media (max-width: 600px) {
+  .email-input input {
+    font-size: 13px;
+    padding: 9px;
+    padding-left: 13px;
+  }
+  .email-input input::placeholder {
+    font-size: 13px;
+  }
+  .email-input button {
+    padding:6px 20px;
+    font-size: 13px;top: 4px;
+  }
+  .notify-modal h1{
+    font-size: 28px;
+    line-height: 135%;
+  }
+  .email-input{
+    margin-top: 20px;
+  }
+  .notify-modal{
+    padding-bottom: 30px;
+  }
+}

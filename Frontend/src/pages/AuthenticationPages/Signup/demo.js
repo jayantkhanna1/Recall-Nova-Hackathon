@@ -1,0 +1,27 @@
+const markerLocations = [
+    { latitude: 24.9611862282924, longitude: 55.1500287902201 },
+    { latitude: 25.0789191048745, longitude: 55.1232627477984 },
+    { latitude: 25.1267700742756, longitude: 55.1222510775418 },
+    { latitude: 25.1959600080512, longitude: 55.2777116260371 },
+    { latitude: 25.1161820046623, longitude: 55.2029928664733 },
+    { latitude: 25.1916658773878, longitude: 55.2753654222708 },
+    { latitude: 25.1141252569921, longitude: 55.1386907453432 },
+    { latitude: 25.0643096905497, longitude: 55.1468568634062 },
+    { latitude: 25.1659749392824, longitude: 55.2081071847286 },
+    { latitude: 25.0768815138985, longitude: 55.1314141928845 },
+    { latitude: 25.2072118060714, longitude: 55.2622982258451 },
+
+    { latitude: 24.9199771826074, longitude: 55.0087692821915 },
+    { latitude: 25.2172195679999, longitude: 55.2797524163755 },
+    { latitude: 24.9822140369419, longitude: 55.1723670188692 },
+    { latitude: 25.0445498795039, longitude: 55.1207132883287 },
+    { latitude: 25.0472200941108, longitude: 55.2355372290937 },
+    { latitude: 25.0685814935615, longitude: 55.3062339819944 },
+
+    { latitude: 25.1669378630306, longitude: 55.4042864154526 },
+    { latitude: 25.22178945959, longitude: 55.3522588234135 },
+    { latitude: 25.2024828973687, longitude: 55.3418846832615 },
+    { latitude: 25.2165457035777, longitude: 55.4078314667393 },
+    { latitude: 25.1271563487343, longitude: 55.3973146578084 },
+    { latitude: 25.1283572627344, longitude: 55.4212035804699 },
+  ];

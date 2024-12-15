@@ -1,0 +1,142 @@
+.recall-store-login-header h1 {
+  color: #353535;
+  font-size: 57px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -1.719px;
+  margin-top: 30px;
+}
+.recall-store-login-input {
+  width: 100%;
+}
+.authentication-left > img {
+  width: 160px;
+}
+.recall-store-login-header p {
+  margin-bottom: 1.5rem;
+  color: #808080;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.5px;
+}
+.recall-store-login-header p span {
+  cursor: pointer;
+  color: #353535;
+  text-decoration: underline;
+}
+.recall-store-input {
+  width: 70%;
+}
+.recall-store-input {
+  margin-bottom: 1.8rem;
+}
+.recall-store-input input,
+.recall-store-input select {
+  border-radius: 12px;
+  width: 100%;
+  border: 1.1px solid #000;
+  padding: 15px;
+  padding-left: 20px;
+  color: #4a4a4a;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+}
+.recall-store-input p {
+  color: #353535;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  display: block;
+  letter-spacing: -0.48px;
+}
+.recall-store-input input::placeholder,
+.recall-store-input select::placeholder {
+  color: #4a4a4a;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  opacity: 0.8;
+}
+
+.recall-store-login-btn {
+  border-radius: 12px;
+  background: #89cff0;
+  border: none;
+  padding: 11px;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  letter-spacing: -0.66px;
+}
+.recall-store-login-btn {
+  width: 70%;
+}
+.recall-store-login-btn img {
+  width: 20px;
+  display: flex;
+  align-items: center;
+}
+.terms-login {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: -0.42px;
+  margin-top: 1rem;
+}
+
+.terms-login span {
+  color: #000;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.authentication-right-wrap > div {
+  background: linear-gradient(335deg, #89cff0 2.4%, #67c0ea 96.54%);
+
+  border-radius: 40px;
+  position: relative;
+  width: 95%;
+  overflow: hidden;
+  height: 93%;
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.authentication-right-img img {
+  width: 65%;
+  text-align: center;
+  left: 15%;
+}
+.map-signup {
+  height: 600px;
+}
+.picklocation-mark {
+  width: 70%;
+  border-radius: 12px;
+  border: 1.1px solid #000;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  color: #4a4a4a;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  gap: 10px;
+}
+
+.picklocation-mark img {
+  width: 30px;
+  opacity: 0.8;
+}

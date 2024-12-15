@@ -1,0 +1,4 @@
+recali_project/__pycache__/
+recali_app/__pycache__/
+recali_app/migrations/
+.env

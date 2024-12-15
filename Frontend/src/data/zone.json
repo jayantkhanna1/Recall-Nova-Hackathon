@@ -1,0 +1,2054 @@
+[
+    {
+      "Community #": 126,
+      "Name": "Abu Hail",
+      "Name (arabic)": "أبو هيل",
+      "Area (  )": 1.27,
+      "Population": "21,414",
+      "Pop. Density": "16,861.4/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 711,
+      "Name": "Al Awir First",
+      "Name (arabic)": "العوير الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 721,
+      "Name": "Al Awir Second",
+      "Name (arabic)": "العوير الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 283,
+      "Name": "Aleyas",
+      "Name (arabic)": "العياص",
+      "Area (  )": 162.4,
+      "Population": "1,706",
+      "Pop. Density": "162.4/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 333,
+      "Name": "Al Bada'a",
+      "Name (arabic)": "البدع",
+      "Area (  )": 0.82,
+      "Population": "18,816",
+      "Pop. Density": "22,946/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 122,
+      "Name": "Al Baraha",
+      "Name (arabic)": "البراحة",
+      "Area (  )": 1.104,
+      "Population": "7,823",
+      "Pop. Density": "7,086/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 373,
+      "Name": "Al Barsha First",
+      "Name (arabic)": "البرشاء الأولى",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 376,
+      "Name": "Al Barsha Second",
+      "Name (arabic)": "البرشاء الثانية",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 375,
+      "Name": "Al Barsha Third",
+      "Name (arabic)": "البرشاء الثالثة",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 671,
+      "Name": "Al Barsha South First",
+      "Name (arabic)": "البرشاء جنوب الاولى",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 5
+    },
+    {
+      "Community #": 672,
+      "Name": "Al Barsha South Second",
+      "Name (arabic)": "البرشاء جنوب الثانية",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 5
+    },
+    {
+      "Community #": 673,
+      "Name": "Al Barsha South Third",
+      "Name (arabic)": "البرشاء جنوب الثالثة",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 5
+    },
+    {
+      "Community #": 681,
+      "Name": "Al Barsha South Fourth",
+      "Name (arabic)": "البرشاء جنوب الرابعة",
+      "Area (  )": 38.1,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 5
+    },
+    {
+      "Community #": 684,
+      "Name": "Al Barsha South Fifth",
+      "Name (arabic)": "البرشاء جنوب الخامسة",
+      "Area (  )": 3.81,
+      "Population": "1,248",
+      "Pop. Density": "33/km2",
+      "Zone": 5
+    },
+    {
+      "Community #": 114,
+      "Name": "Al Buteen",
+      "Name (arabic)": "البطين",
+      "Area (  )": 0.07,
+      "Population": "2,364",
+      "Pop. Density": "33,771/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 111,
+      "Name": "Al Corniche",
+      "Name (arabic)": "الكورنيش",
+      "Area (  )": 2.9,
+      "Population": "1,135",
+      "Pop. Density": "2,890/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 113,
+      "Name": "Al Dhagaya",
+      "Name (arabic)": "الضغاية",
+      "Area (  )": 0.125,
+      "Population": "10,896",
+      "Pop. Density": "21,451/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 945,
+      "Name": "Al Faqa",
+      "Name (arabic)": "الفقع",
+      "Area (  )": 2.811,
+      "Population": 22,
+      "Pop. Density": "2.811/km2",
+      "Zone": 7
+    },
+    {
+      "Community #": 214,
+      "Name": "Al Garhoud",
+      "Name (arabic)": "القرهود",
+      "Area (  )": 4,
+      "Population": "4,466",
+      "Pop. Density": "1,116.5/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 313,
+      "Name": "Al Hamriya, Dubai",
+      "Name (arabic)": "الحمرية",
+      "Area (  )": 0.72,
+      "Population": "15,104",
+      "Pop. Density": "20,890/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 131,
+      "Name": "Al Hamriya Port",
+      "Name (arabic)": "ميناء الحمرية",
+      "Area (  )": 0.89,
+      "Population": 83,
+      "Pop. Density": "93.25/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 956,
+      "Name": "Al Hathmah",
+      "Name (arabic)": "الحثمة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 674,
+      "Name": "Al Hebiah First",
+      "Name (arabic)": "الحبيه الاول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 682,
+      "Name": "Al Hebiah Fourth/ Dubai Sports City",
+      "Name (arabic)": "الحبيه الربع",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 683,
+      "Name": "Al Hebiah Fifth/ Golf City",
+      "Name (arabic)": "الحبيه الخمس",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 675,
+      "Name": "Al Hebiah Second/ Dubai Sports City",
+      "Name (arabic)": "الحبيه الثني",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 677,
+      "Name": "Al Hebiah Sixth",
+      "Name (arabic)": "الحبيه السادس",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 676,
+      "Name": "Al Hebiah Third",
+      "Name (arabic)": "الحبيه الثلث",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 322,
+      "Name": "Al Hudaiba",
+      "Name (arabic)": "الحضيبة",
+      "Area (  )": 0.84,
+      "Population": "7,699",
+      "Pop. Density": "9,165/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 326,
+      "Name": "Al Jaddaf",
+      "Name (arabic)": "الجداف",
+      "Area (  )": 7.3,
+      "Population": "2,990",
+      "Pop. Density": "409.5/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 323,
+      "Name": "Al Jafiliya",
+      "Name (arabic)": "الجافلية",
+      "Area (  )": 1.63,
+      "Population": "11,619",
+      "Pop. Density": "7,128/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 318,
+      "Name": "Al Karama",
+      "Name (arabic)": "الكرامة",
+      "Area (  )": 1.509,
+      "Population": "45,674",
+      "Pop. Density": "30,267/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 128,
+      "Name": "Al Khabisi",
+      "Name (arabic)": "الخبيصي",
+      "Area (  )": 1.255,
+      "Population": "6,737",
+      "Pop. Density": "5,368/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 281,
+      "Name": "Al Khawaneej First",
+      "Name (arabic)": "الخوانيج الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 282,
+      "Name": "Al Khawaneej Second",
+      "Name (arabic)": "الخوانيج الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 412,
+      "Name": "Al Kheeran/ Dubai Festival City",
+      "Name (arabic)": "الخيران",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 415,
+      "Name": "Al Khairan First/ dubai Creek Harbour",
+      "Name (arabic)": "الخيران الأول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 324,
+      "Name": "Al Kifaf",
+      "Name (arabic)": "الكفاف",
+      "Area (  )": 0.8,
+      "Population": 35,
+      "Pop. Density": "44/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 987,
+      "Name": "Al Layan 1",
+      "Name (arabic)": "الليان ١",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 988,
+      "Name": "Al Layan 2",
+      "Name (arabic)": "الليان ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 931,
+      "Name": "Al Lisaili",
+      "Name (arabic)": "الليسيلي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 845,
+      "Name": "Al Maha",
+      "Name (arabic)": "المها",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 134,
+      "Name": "Al Mamzar",
+      "Name (arabic)": "الممزر",
+      "Area (  )": 3.35,
+      "Population": "2,260",
+      "Pop. Density": "674.6 /km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 363,
+      "Name": "Al Manara",
+      "Name (arabic)": "المنارة",
+      "Area (  )": 2.1,
+      "Population": "2,147",
+      "Pop. Density": "1,022/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 317,
+      "Name": "Al Mankhool",
+      "Name (arabic)": "منخول",
+      "Area (  )": 1,
+      "Population": "16,013",
+      "Pop. Density": "16,013/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 347,
+      "Name": "Al Merkad",
+      "Name (arabic)": "المركاض",
+      "Area (  )": "",
+      "Population": 139,
+      "Pop. Density": "",
+      "Zone": 2
+    },
+    {
+      "Community #": 917,
+      "Name": "Al Marmoom",
+      "Name (arabic)": "المرموم",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 735,
+      "Name": "Al Meryal",
+      "Name (arabic)": "المريال",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 262,
+      "Name": "Al Mizhar First",
+      "Name (arabic)": "المزهر الأولى",
+      "Area (  )": 11.2,
+      "Population": "4,326",
+      "Pop. Density": "386.25/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 263,
+      "Name": "Al Mizhar Second",
+      "Name (arabic)": "المزهر الثانية",
+      "Area (  )": 11.2,
+      "Population": "4,326",
+      "Pop. Density": "386.25/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 124,
+      "Name": "Al Muraqqabat",
+      "Name (arabic)": "المرقبات",
+      "Area (  )": 0.78,
+      "Population": "32,395",
+      "Pop. Density": "41,532/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 117,
+      "Name": "Al Murar",
+      "Name (arabic)": "المرر",
+      "Area (  )": 0.41,
+      "Population": "19,831",
+      "Pop. Density": "48,368/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 123,
+      "Name": "Al Muteena",
+      "Name (arabic)": "المطينة",
+      "Area (  )": 1.12,
+      "Population": "18,094",
+      "Pop. Density": "16,155/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 231,
+      "Name": "Al Nahda First",
+      "Name (arabic)": "النهدة الأولى",
+      "Area (  )": 3.18,
+      "Population": 600,
+      "Pop. Density": "188.67/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 241,
+      "Name": "Al Nahda Second",
+      "Name (arabic)": "النهدة الثانية",
+      "Area (  )": 3.18,
+      "Population": 600,
+      "Pop. Density": "188.67/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 975,
+      "Name": "Al O'shoosh",
+      "Name (arabic)": "العشوش",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 354,
+      "Name": "Al Quoz First",
+      "Name (arabic)": "القوز الاولى",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 364,
+      "Name": "Al Quoz Industrial First",
+      "Name (arabic)": "القوز الصناعية الأولى",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 369,
+      "Name": "Al Quoz Industrial Fourth",
+      "Name (arabic)": "القوز الصناعية الرابعة",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 365,
+      "Name": "Al Quoz Industrial Second",
+      "Name (arabic)": "القوز الصناعية الثانية",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 368,
+      "Name": "Al Quoz Industrial Third",
+      "Name (arabic)": "القوز الصناعية الثالثة",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 355,
+      "Name": "Al Quoz Second",
+      "Name (arabic)": "القوز الثانية",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 358,
+      "Name": "Al Quoz Third",
+      "Name (arabic)": "القوز الثالثة",
+      "Area (  )": 27.1,
+      "Population": "16,719",
+      "Pop. Density": "617/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 359,
+      "Name": "Al Quoz Fourth",
+      "Name (arabic)": "القوز الرابعة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 2
+    },
+    {
+      "Community #": 232,
+      "Name": "Al Qusais First",
+      "Name (arabic)": "القصيص الأولى",
+      "Area (  )": "",
+      "Population": "15,502",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 248,
+      "Name": "Al Qusais Industrial Fifth",
+      "Name (arabic)": "القصيص الصناعية الخامسة",
+      "Area (  )": "",
+      "Population": 1,
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 242,
+      "Name": "Al Qusais Industrial First",
+      "Name (arabic)": "القصيص الصناعية الأولى",
+      "Area (  )": "",
+      "Population": "2,099",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 247,
+      "Name": "Al Qusais Industrial Fourth",
+      "Name (arabic)": "القصيص الصناعية الرابعة",
+      "Area (  )": "",
+      "Population": 206,
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 243,
+      "Name": "Al Qusais Industrial Second",
+      "Name (arabic)": "القصيص الصناعية الثانية",
+      "Area (  )": "",
+      "Population": "2,090",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 246,
+      "Name": "Al Qusais Industrial Third",
+      "Name (arabic)": "القصيص الصناعية الثالثة",
+      "Area (  )": "",
+      "Population": 162,
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 233,
+      "Name": "Al Qusais Second",
+      "Name (arabic)": "القصيص الثانية",
+      "Area (  )": "",
+      "Population": "7,657",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 234,
+      "Name": "Al Qusais Third",
+      "Name (arabic)": "القصيص الثالثة",
+      "Area (  )": "",
+      "Population": "7,506",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 316,
+      "Name": "Al Raffa",
+      "Name (arabic)": "الرفاعة",
+      "Area (  )": 1.24,
+      "Population": "15,344",
+      "Pop. Density": "12,374/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 112,
+      "Name": "Al Ras",
+      "Name (arabic)": "الراس",
+      "Area (  )": 0.2,
+      "Population": "6,812",
+      "Pop. Density": "34,060/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 216,
+      "Name": "Al Rashidiya",
+      "Name (arabic)": "الراشدية",
+      "Area (  )": 4.41,
+      "Population": "22,326",
+      "Pop. Density": "5,062 /km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 119,
+      "Name": "Al Rigga",
+      "Name (arabic)": "الرقة",
+      "Area (  )": 0.89,
+      "Population": "5,684",
+      "Pop. Density": "6,386/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 812,
+      "Name": "Al Rowaiyah First",
+      "Name (arabic)": "الرويه الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 813,
+      "Name": "Al Rowaiyah Second",
+      "Name (arabic)": "الرويه لثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 814,
+      "Name": "Al Rowaiyah Third",
+      "Name (arabic)": "الرويه الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 115,
+      "Name": "Al Sabkha",
+      "Name (arabic)": "السبخة",
+      "Area (  )": 0.13,
+      "Population": "2,627",
+      "Pop. Density": "20,207/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 353,
+      "Name": "Al Safa First",
+      "Name (arabic)": "الصفا الأولى",
+      "Area (  )": 4.5,
+      "Population": "6,291",
+      "Pop. Density": "1,398/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 357,
+      "Name": "Al Safa Second",
+      "Name (arabic)": "الصفا الثانية",
+      "Area (  )": 4.5,
+      "Population": "6,291",
+      "Pop. Density": "1,398/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 372,
+      "Name": "Al Safouh First",
+      "Name (arabic)": "الصفوح الأولى",
+      "Area (  )": 7.6,
+      "Population": "3,337",
+      "Pop. Density": "439/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 382,
+      "Name": "Al Safouh Second",
+      "Name (arabic)": "الصفوح الثانية",
+      "Area (  )": 7.6,
+      "Population": "3,337",
+      "Pop. Density": "439/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 334,
+      "Name": "Al Satwa",
+      "Name (arabic)": "السطوة",
+      "Area (  )": 2.87,
+      "Population": "30,147",
+      "Pop. Density": "10504/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 961,
+      "Name": "Al Selal",
+      "Name (arabic)": "الصلال",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 311,
+      "Name": "Al Shindagha",
+      "Name (arabic)": "الشندغة",
+      "Area (  )": 0.26,
+      "Population": 16,
+      "Pop. Density": "70/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 312,
+      "Name": "Al Souk Al Kabir/ Bur Dubai",
+      "Name (arabic)": "السوق الكبير",
+      "Area (  )": "",
+      "Population": "26,405",
+      "Pop. Density": "",
+      "Zone": 2
+    },
+    {
+      "Community #": 383,
+      "Name": "Al Thanyah First",
+      "Name (arabic)": "الثنيه الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 384,
+      "Name": "Al Thanyah Second",
+      "Name (arabic)": "الثنيه الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 388,
+      "Name": "Al Thanyah Third",
+      "Name (arabic)": "الثنيه الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 394,
+      "Name": "Al Thanyah Fourth",
+      "Name (arabic)": "الثنيه الرابعة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 393,
+      "Name": "Al Thanyah Fifth",
+      "Name (arabic)": "الثنيه الخامس",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 284,
+      "Name": "Al Khawaneej Third",
+      "Name (arabic)": "",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 226,
+      "Name": "Al Twar First",
+      "Name (arabic)": "الطوار الأولى",
+      "Area (  )": 6.8,
+      "Population": "18,457",
+      "Pop. Density": "2,714/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 227,
+      "Name": "Al Twar Second",
+      "Name (arabic)": "الطوار الثانية",
+      "Area (  )": 6.8,
+      "Population": "18,457",
+      "Pop. Density": "2,714/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 228,
+      "Name": "Al Twar Third",
+      "Name (arabic)": "الطوار الثالثة",
+      "Area (  )": 6.8,
+      "Population": "18,457",
+      "Pop. Density": "2,714/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 502,
+      "Name": "Al Wajeha Al Bahriah",
+      "Name (arabic)": "الواجهة البحرية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 425,
+      "Name": "Al Warqa'a Fifth",
+      "Name (arabic)": "الورقاء الخامسة",
+      "Area (  )": 21.6,
+      "Population": 5,
+      "Pop. Density": "0.23/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 421,
+      "Name": "Al Warqa'a First",
+      "Name (arabic)": "الورقاء الأولى",
+      "Area (  )": 21.6,
+      "Population": 5,
+      "Pop. Density": "0.23/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 424,
+      "Name": "Al Warqa'a Fourth",
+      "Name (arabic)": "الورقاء الرابعة",
+      "Area (  )": 21.6,
+      "Population": 5,
+      "Pop. Density": "0.23/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 422,
+      "Name": "Al Warqa'a Second",
+      "Name (arabic)": "الورقاء الثانية",
+      "Area (  )": 21.6,
+      "Population": 5,
+      "Pop. Density": "0.23/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 423,
+      "Name": "Al Warqa'a Third",
+      "Name (arabic)": "الورقاء الثالثة",
+      "Area (  )": 21.6,
+      "Population": 5,
+      "Pop. Density": "0.23/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 343,
+      "Name": "Al Wasl",
+      "Name (arabic)": "الوصل",
+      "Area (  )": 4.76,
+      "Population": "22,153",
+      "Pop. Density": "4,654/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 727,
+      "Name": "Al Wohoosh",
+      "Name (arabic)": "الوحوش",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 132,
+      "Name": "Al Waheda",
+      "Name (arabic)": "الوحيدة",
+      "Area (  )": 1.41,
+      "Population": "9,856",
+      "Pop. Density": "6,990/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 921,
+      "Name": "Al Yalayis 1",
+      "Name (arabic)": "اليلايس ١",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 922,
+      "Name": "Al Yalayis 2",
+      "Name (arabic)": "اليلايس ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 923,
+      "Name": "Al Yalayis 3",
+      "Name (arabic)": "اليلايس ٣",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 924,
+      "Name": "Al Yalayis 4",
+      "Name (arabic)": "اليلايس ٤",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 925,
+      "Name": "Al Yalayis 5",
+      "Name (arabic)": "اليلايس ٥",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 915,
+      "Name": "Al Yufrah 1",
+      "Name (arabic)": "اليفره ١",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 916,
+      "Name": "Al Yufrah 2",
+      "Name (arabic)": "اليفره ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 918,
+      "Name": "Al Yufrah 3",
+      "Name (arabic)": "اليفره ٣",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 919,
+      "Name": "Al Yufrah 4",
+      "Name (arabic)": "اليفره ٤",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 116,
+      "Name": "Ayal Nasir",
+      "Name (arabic)": "عيال ناصر",
+      "Area (  )": 0.17,
+      "Population": "13,077",
+      "Pop. Density": "76,923/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 346,
+      "Name": "Business Bay",
+      "Name (arabic)": "الخليج التجاري",
+      "Area (  )": 46,
+      "Population": "191,000",
+      "Pop. Density": "4,200/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 611,
+      "Name": "Bu Kadra",
+      "Name (arabic)": "بو كدرة",
+      "Area (  )": 1.7,
+      "Population": 195,
+      "Pop. Density": "115/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 345,
+      "Name": "Downtown Dubai",
+      "Name (arabic)": "وسط دبي",
+      "Area (  )": 2.68,
+      "Population": "18,698[2]",
+      "Pop. Density": "6,975/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 121,
+      "Name": "Corniche Deira",
+      "Name (arabic)": "كورنيش ديرة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 221,
+      "Name": "Dubai International Airport",
+      "Name (arabic)": "مطار دبي الدوالي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 598,
+      "Name": "Dubai Investment Park First",
+      "Name (arabic)": "مجمع دبي للاستثمار الأول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 597,
+      "Name": "Dubai Investment Park Second",
+      "Name (arabic)": "مجمع دبي للاستثمار الثاني",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 724,
+      "Name": "Enkhali",
+      "Name (arabic)": "نخلي",
+      "Area (  )": 44.5,
+      "Population": 0,
+      "Pop. Density": "44/km2",
+      "Zone": 7
+    },
+    {
+      "Community #": 967,
+      "Name": "Ghadeer Barashy/ Al ghadeer village",
+      "Name (arabic)": "غدير براشي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 941,
+      "Name": "Grayteesah",
+      "Name (arabic)": "قريطيسه",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 631,
+      "Name": "Hadaeq Sheikh Mohammed Bin Rashid",
+      "Name (arabic)": "حدائق الشيخ محمد بن راشد",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 891,
+      "Name": "Hatta",
+      "Name (arabic)": "حتا",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 991,
+      "Name": "Hefair",
+      "Name (arabic)": "حفير",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 511,
+      "Name": "Hessyan First",
+      "Name (arabic)": "حصيان الاول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 512,
+      "Name": "Hessyan Second",
+      "Name (arabic)": "حصيات الثاني",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 127,
+      "Name": "Hor Al Anz",
+      "Name (arabic)": "هور العنز",
+      "Area (  )": 4.18,
+      "Population": "40,342",
+      "Pop. Density": "9,651/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 133,
+      "Name": "Hor Al Anz East",
+      "Name (arabic)": "هور العنز شرق",
+      "Area (  )": 4.18,
+      "Population": "40,342",
+      "Pop. Density": "9,651/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 591,
+      "Name": "Jabal Ali First",
+      "Name (arabic)": "جبل علي ١",
+      "Area (  )": 47.1,
+      "Population": "31,634",
+      "Pop. Density": "672/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 592,
+      "Name": "Jabal Ali Second",
+      "Name (arabic)": "جبل علي ٢",
+      "Area (  )": 47.1,
+      "Population": "31,634",
+      "Pop. Density": "672/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 593,
+      "Name": "Jabal Ali Third",
+      "Name (arabic)": "جبل علي ٣",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 599,
+      "Name": "Jebel Ali Industrial First",
+      "Name (arabic)": "جبل علي الصناعية",
+      "Area (  )": 47.1,
+      "Population": "31,634",
+      "Pop. Density": "672/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 518,
+      "Name": "Jabal Ali Industrial Second",
+      "Name (arabic)": "جبل علي الصناعية الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 516,
+      "Name": "Jabal Ali Industrial Third",
+      "Name (arabic)": "جبل علي الصناعية الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 332,
+      "Name": "Jumeira First",
+      "Name (arabic)": "جميرا الأولى",
+      "Area (  )": 6.9,
+      "Population": "26,499",
+      "Pop. Density": "3,840/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 342,
+      "Name": "Jumeira Second",
+      "Name (arabic)": "جميرا الثانية",
+      "Area (  )": 6.9,
+      "Population": "26,499",
+      "Pop. Density": "3,840/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 352,
+      "Name": "Jumeira Third",
+      "Name (arabic)": "جميرا الثالثة",
+      "Area (  )": 6.9,
+      "Population": "26,499",
+      "Pop. Density": "3,840/km2",
+      "Zone": 1
+    },
+    {
+      "Community #": 302,
+      "Name": "Jumeirah Bay",
+      "Name (arabic)": "شاطئ جميرا",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 304,
+      "Name": "Jumeirah Island 2",
+      "Name (arabic)": "جزيرة جميرا ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 826,
+      "Name": "Le Hemaira",
+      "Name (arabic)": "الحميرا",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 731,
+      "Name": "Lehbab First",
+      "Name (arabic)": "لهباب الأول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 831,
+      "Name": "Lehbab Second",
+      "Name (arabic)": "لهباب الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 521,
+      "Name": "Madinat Al Mataar",
+      "Name (arabic)": "مدينة المطار",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 321,
+      "Name": "Madinat Dubai Al Melaheyah",
+      "Name (arabic)": "مدينة دبي الملاحية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 857,
+      "Name": "Margab",
+      "Name (arabic)": "مرقب",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 841,
+      "Name": "Margham",
+      "Name (arabic)": "مرغم",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 392,
+      "Name": "Marsa Dubai/ dubai marina",
+      "Name (arabic)": "مرسى دبي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 685,
+      "Name": "Me'aisem First",
+      "Name (arabic)": "معيصم الأول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 686,
+      "Name": "Me'aisem Second",
+      "Name (arabic)": "معيصم الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 594,
+      "Name": "Mena Jabal Ali",
+      "Name (arabic)": "ميناء جبل علي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 821,
+      "Name": "Mereiyeel",
+      "Name (arabic)": "مرييل",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 251,
+      "Name": "Mirdif",
+      "Name (arabic)": "مردف",
+      "Area (  )": 9.2,
+      "Population": "8,115",
+      "Pop. Density": "882/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 981,
+      "Name": "Mugatrah",
+      "Name (arabic)": "مقطره",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 245,
+      "Name": "Muhaisnah Fourth",
+      "Name (arabic)": "محيصنة الرابعة",
+      "Area (  )": 13,
+      "Population": "90,870",
+      "Pop. Density": "6,990/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 264,
+      "Name": "Muhaisnah Second",
+      "Name (arabic)": "محيصنة الثانية",
+      "Area (  )": 13,
+      "Population": "90,870",
+      "Pop. Density": "6,990/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 244,
+      "Name": "Muhaisnah Third",
+      "Name (arabic)": "محيصنة الثالثة",
+      "Area (  )": 13,
+      "Population": "90,870",
+      "Pop. Density": "6,990/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 261,
+      "Name": "Muhaisnah First",
+      "Name (arabic)": "محيصنة الأولى",
+      "Area (  )": 13,
+      "Population": "90,870",
+      "Pop. Density": "6,990/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 267,
+      "Name": "Muhaisnah Fifth",
+      "Name (arabic)": "محيصنة الخامس",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 252,
+      "Name": "Mushrif",
+      "Name (arabic)": "مشرف",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 416,
+      "Name": "Nad Al Hammar",
+      "Name (arabic)": "ند الحمر",
+      "Area (  )": 8.4,
+      "Population": "2,563",
+      "Pop. Density": "6.16/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 618,
+      "Name": "Nadd Al Shiba First",
+      "Name (arabic)": "ند الشبا الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 617,
+      "Name": "Nadd Al Shiba Fourth",
+      "Name (arabic)": "ند الشبا الرابعة",
+      "Area (  )": 8.4,
+      "Population": "2,563",
+      "Pop. Density": "6.16/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 615,
+      "Name": "Nadd Al Shiba Second",
+      "Name (arabic)": "ند الشبا الثانية",
+      "Area (  )": 8.4,
+      "Population": "2,563",
+      "Pop. Density": "6.16/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 616,
+      "Name": "Nadd Al Shiba Third",
+      "Name (arabic)": "ند الشبا الثالثة",
+      "Area (  )": 60,
+      "Population": 680,
+      "Pop. Density": "11.3/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 626,
+      "Name": "Nadd Hessa/ Dubai Silicon Oasis",
+      "Name (arabic)": "ند حصة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 213,
+      "Name": "Nad Shamma",
+      "Name (arabic)": "ند شما",
+      "Area (  )": 1.36,
+      "Population": "1,208",
+      "Pop. Density": "888.34/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 118,
+      "Name": "Naif",
+      "Name (arabic)": "نايف",
+      "Area (  )": 0.561,
+      "Population": "28,571",
+      "Pop. Density": "50,928/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 736,
+      "Name": "Nazwah",
+      "Name (arabic)": "نزوه",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 265,
+      "Name": "Oud Al Muteena First",
+      "Name (arabic)": "عود المطينة الأولى",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 266,
+      "Name": "Oud Al Muteena Second",
+      "Name (arabic)": "عود المطينة الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 268,
+      "Name": "Oud Al Muteena Third",
+      "Name (arabic)": "عود المطينة الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 319,
+      "Name": "Oud Metha",
+      "Name (arabic)": "عود ميثاء",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 2
+    },
+    {
+      "Community #": 101,
+      "Name": "Nakhlat Deira",
+      "Name (arabic)": "نخلة ديرة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 501,
+      "Name": "Jebel Ali Palm",
+      "Name (arabic)": "نخلة جبل علي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 381,
+      "Name": "Palm Jumeirah",
+      "Name (arabic)": "نخلة جميرا",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 1
+    },
+    {
+      "Community #": 129,
+      "Name": "Port Saeed",
+      "Name (arabic)": "بور سعيد",
+      "Area (  )": 1.84,
+      "Population": 448,
+      "Pop. Density": "243.4/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 413,
+      "Name": "Ras Al Khor",
+      "Name (arabic)": "رأس الخور",
+      "Area (  )": 13,
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 612,
+      "Name": "Ras Al Khor Industrial First",
+      "Name (arabic)": "رأس الخور الصناعية الأولى",
+      "Area (  )": 13,
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 613,
+      "Name": "Ras Al Khor Industrial Second",
+      "Name (arabic)": "رأس الخور الصناعية الثانية",
+      "Area (  )": 13,
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 614,
+      "Name": "Ras Al Khor Industrial Third",
+      "Name (arabic)": "رأس الخور الصناعية الثالثة",
+      "Area (  )": 13,
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 3
+    },
+    {
+      "Community #": 851,
+      "Name": "Remah",
+      "Name (arabic)": "رماح",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 125,
+      "Name": "Rigga Al Buteen",
+      "Name (arabic)": "رقة البطين",
+      "Area (  )": 0.684,
+      "Population": "1,394",
+      "Pop. Density": "2,038/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 951,
+      "Name": "Saih Al Salam",
+      "Name (arabic)": "سيح السلم",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 978,
+      "Name": "Saih Shua'alah",
+      "Name (arabic)": "سيح شعيلة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 513,
+      "Name": "Saih Shuaib 1",
+      "Name (arabic)": "سيح شعيب ١",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 531,
+      "Name": "Saih Shuaib 2",
+      "Name (arabic)": "سيح شعيب ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 532,
+      "Name": "Saih Shuaib 3",
+      "Name (arabic)": "سيح شعيب ٣",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 533,
+      "Name": "Saih Shuaib 4",
+      "Name (arabic)": "سيح شعيب ٤",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 6
+    },
+    {
+      "Community #": 335,
+      "Name": "Trade Centre 1",
+      "Name (arabic)": "المركز التجاري الأولى",
+      "Area (  )": 0.9,
+      "Population": "4,358",
+      "Pop. Density": "4,842/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 336,
+      "Name": "Trade Centre 2",
+      "Name (arabic)": "المركز التجاري الثانية",
+      "Area (  )": 1.91,
+      "Population": "3,353",
+      "Pop. Density": "1,755.5/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 824,
+      "Name": "Umm Al Daman",
+      "Name (arabic)": "أم الدمن",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 835,
+      "Name": "Umm Al Mo'meneen",
+      "Name (arabic)": "أم المؤمنين",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": ""
+    },
+    {
+      "Community #": 367,
+      "Name": "Umm Al Sheif",
+      "Name (arabic)": "أم الشيف",
+      "Area (  )": 1.87,
+      "Population": "6,263",
+      "Pop. Density": "3,350/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 847,
+      "Name": "Umm Eselay",
+      "Name (arabic)": "أم السلي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 314,
+      "Name": "Umm Hurair First",
+      "Name (arabic)": "أم هرير الأولى",
+      "Area (  )": 2.3,
+      "Population": "4,428",
+      "Pop. Density": "1926/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 315,
+      "Name": "Umm Hurair Second",
+      "Name (arabic)": "أم هرير الثانية",
+      "Area (  )": 2.3,
+      "Population": "4,428",
+      "Pop. Density": "1926/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 911,
+      "Name": "Umm Nahad First",
+      "Name (arabic)": "أم نهد الأول",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 912,
+      "Name": "Umm Nahad Second",
+      "Name (arabic)": "أم نهد الثانية",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 913,
+      "Name": "Umm Nahad Third",
+      "Name (arabic)": "أم نهد الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 914,
+      "Name": "Umm Nahad Fourth",
+      "Name (arabic)": "أم نهد الرابعة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 7
+    },
+    {
+      "Community #": 215,
+      "Name": "Umm Ramool",
+      "Name (arabic)": "أم رمول",
+      "Area (  )": 3.61,
+      "Population": "4,629",
+      "Pop. Density": "1,282/km2",
+      "Zone": 3
+    },
+    {
+      "Community #": 356,
+      "Name": "Umm Suqeim First",
+      "Name (arabic)": "أم سقيم الأولى",
+      "Area (  )": 7.2,
+      "Population": "16,459",
+      "Pop. Density": "2,286/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 362,
+      "Name": "Umm Suqeim Second",
+      "Name (arabic)": "أم سقيم الثانية",
+      "Area (  )": 7.2,
+      "Population": "16,459",
+      "Pop. Density": "2,286/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 366,
+      "Name": "Umm Suqeim Third",
+      "Name (arabic)": "أم سقيم الثالثة",
+      "Area (  )": 7.2,
+      "Population": "16,459",
+      "Pop. Density": "2,286/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 271,
+      "Name": "Wadi Alamardi",
+      "Name (arabic)": "وادي العمردي",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 643,
+      "Name": "Wadi Al Safa 2",
+      "Name (arabic)": "وادي الصفا ٢",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 645,
+      "Name": "Wadi Al Safa 3",
+      "Name (arabic)": "وادي الصفا ٣",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 646,
+      "Name": "Wadi Al Safa 4",
+      "Name (arabic)": "وادي الصفا ٤",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 648,
+      "Name": "Wadi Al Safa 5",
+      "Name (arabic)": "وادي الصفا ٥",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 664,
+      "Name": "Wadi Al Safa 6",
+      "Name (arabic)": "وادي الصفا ٦",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 665,
+      "Name": "Wadi Al Safa 7",
+      "Name (arabic)": "وادي الصفا ٧",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": 431,
+      "Name": "Wadi Alshabak",
+      "Name (arabic)": "وادي الشبك",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 621,
+      "Name": "Warsan First",
+      "Name (arabic)": "ورسان الاولى",
+      "Area (  )": 17.1,
+      "Population": "1,421",
+      "Pop. Density": "83/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 622,
+      "Name": "Warsan Second",
+      "Name (arabic)": "ورسان الثانية",
+      "Area (  )": 17.1,
+      "Population": "1,421",
+      "Pop. Density": "83/km2",
+      "Zone": 4
+    },
+    {
+      "Community #": 811,
+      "Name": "Warsan Third",
+      "Name (arabic)": "ورسان الثالثة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 624,
+      "Name": "Warsan Fourth",
+      "Name (arabic)": "ورسان الرابعة",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 4
+    },
+    {
+      "Community #": 861,
+      "Name": "Yaraah",
+      "Name (arabic)": "يراح",
+      "Area (  )": 83.8,
+      "Population": "1,222",
+      "Pop. Density": "12/km2",
+      "Zone": 7
+    },
+    {
+      "Community #": 325,
+      "Name": "Za'abeel First",
+      "Name (arabic)": "زعبيل الأولى",
+      "Area (  )": 10,
+      "Population": "5,283",
+      "Pop. Density": "528.3/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": 337,
+      "Name": "Za'abeel Second",
+      "Name (arabic)": "زعبيل الثانية",
+      "Area (  )": 10,
+      "Population": "5,283",
+      "Pop. Density": "528.3/km2",
+      "Zone": 2
+    },
+    {
+      "Community #": "",
+      "Name": "Motor City",
+      "Name (arabic)": "",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": "",
+      "Name": "Dubai Studio City",
+      "Name (arabic)": "",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": "",
+      "Name": "Jumeirah Village Circle",
+      "Name (arabic)": "",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    },
+    {
+      "Community #": "",
+      "Name": "Jumeirah Village Triangle",
+      "Name (arabic)": "",
+      "Area (  )": "",
+      "Population": "",
+      "Pop. Density": "",
+      "Zone": 5
+    }
+  ]
